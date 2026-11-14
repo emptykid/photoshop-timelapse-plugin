@@ -1,5 +1,7 @@
 # PSFlow - Photoshop Timelapse Plugin
 
+**[Get PSFlow / 官网](https://psflow.io?utm_source=github&utm_medium=readme&utm_campaign=photoshop-timelapse-plugin)**
+
 [![Download](https://img.shields.io/badge/Download-Windows%20%7C%20macOS-blue?style=for-the-badge)](https://psflow.io/download)
 [![License](https://img.shields.io/badge/License-Paid-green?style=for-the-badge)](https://psflow.io/buy)
 [![Version](https://img.shields.io/badge/Version-1.0.4-orange?style=for-the-badge)](https://psflow.io/changelog)
@@ -111,7 +113,7 @@ Done? Click stop and choose your export settings. Get a high-quality MP4 file in
 Have questions or feedback? Reach out to us:
 
 - 📧 **Email**: [ivanphilts@gmail.com](mailto:ivanphilts@gmail.com)
-- 🐦 **Twitter**: [@IPhilts31969](https://x.com/IPhilts31969)
+- 🐦 **Twitter**: [@psflow_io](https://x.com/psflow_io)
 
 ## 📄 License
 
@@ -133,6 +135,6 @@ PSFlow is a paid commercial software. By purchasing a license, you agree to our 
 
 ---
 
-**Made with ❤️ for digital artists by [Ivan Philts](https://twitter.com/IPhilts31969)**
+**Made with ❤️ for digital artists by [Ivan Philts](https://x.com/psflow_io)**
 
 _PSFlow © 2025-2026. All rights reserved._
